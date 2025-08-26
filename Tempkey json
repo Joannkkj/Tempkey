@@ -3,7 +3,7 @@
     "username": "dpmods1",
     "password": "dpmods1",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": fals
   },
   {
     "id": "android_device_id_2",
